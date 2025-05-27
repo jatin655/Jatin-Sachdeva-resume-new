@@ -2,12 +2,6 @@
 
 This is a personal resume website built using **React** and deployed on **Vercel**. The application showcases my education, skills, work experience, and contact information in a clean, responsive layout.
 
-## 🔗 Live Demo
-
-- **Vercel URL**: [https://your-name.vercel.app](https://your-name.vercel.app)
-- **GitHub Repo**: [https://github.com/your-username/react-resume](https://github.com/your-username/react-resume)
-- *(Optional)* **Custom Domain**: [https://firstname-lastname.vercel.app](https://firstname-lastname.vercel.app)
-
 ---
 
 ## 🚀 Features
